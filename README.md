@@ -86,11 +86,11 @@ The project follows the following steps:
 
 ## Contributors
 
-- **Harshith Deshalli Ravi**  
-  [GitHub](https://github.com/HarshithDR)
+- **Sohan Mahadev**  
+  [GitHub](https://github.com/SohanMahadev1)
 
 ---
 
 ## Contact
 
-For questions, suggestions, or collaboration opportunities, feel free to reach out to [Harshith Deshalli Ravi](https://github.com/HarshithDR).
+For questions, suggestions, or collaboration opportunities, feel free to reach out to [Sohan Mahadev](https://github.com/SohanMahadev1).
